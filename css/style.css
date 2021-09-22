@@ -15,9 +15,14 @@ body {
   border: 4px solid #ecb390;
 }
 
-.photo-page img,
-p {
+.photo-page img {
   margin-top: 30px;
+}
+
+.photo-page p {
+  background: #d4e2d4;
+  margin-top: 60px;
+  padding: 30px;
 }
 
 .contact-page p {
